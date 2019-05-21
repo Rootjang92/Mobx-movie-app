@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28b7a0f11f746117d3987aa414cc5a35",
+    "revision": "f81f1dabcb8111eb737a53b047ef0260",
     "url": "/Mobx-movie-app/index.html"
   },
   {
-    "revision": "fe6cabd62aa7adc64503",
+    "revision": "1aec56534e95e1ed13ee",
     "url": "/Mobx-movie-app/static/css/main.cb12f05b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mobx-movie-app/static/js/2.b20bf046.chunk.js"
   },
   {
-    "revision": "fe6cabd62aa7adc64503",
-    "url": "/Mobx-movie-app/static/js/main.6f4a7ef2.chunk.js"
+    "revision": "1aec56534e95e1ed13ee",
+    "url": "/Mobx-movie-app/static/js/main.ea1fa98d.chunk.js"
   },
   {
     "revision": "478f8374baf082a29f18",
