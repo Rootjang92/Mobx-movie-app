@@ -2,6 +2,7 @@ import { observable, action, configure } from 'mobx';
 import axios from 'axios';
 import _ from 'lodash';
 
+// store
 configure({ enforceActions: 'observed' });
 
 class MovieStore {
